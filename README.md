@@ -28,7 +28,7 @@ My name is Uzair Jawaid and I'm a software developer.  I'm from Brampton, ON and
 </a>
 
 
-<a href="https://github.com/UzairJ99/PythonLeetCode">
+<a href="https://github.com/UzairJ99/pacemaker-project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UzairJ99&repo=PythonLeetCode&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
