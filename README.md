@@ -17,7 +17,7 @@ My name is Uzair Jawaid and I'm a software developer.  I'm from Brampton, ON and
 
 
 <a href="https://github.com/UzairJ99/UzairJ99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UzairJ99&hide=python&hide=C&hide=assembly&hide=MATLAB,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UzairJ99&hide=python,c,assembly,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/UzairJ99/UzairJ99">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=UzairJ99&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Uzair's GitHub Stats" />
