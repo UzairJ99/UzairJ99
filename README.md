@@ -23,8 +23,8 @@ My name is Uzair Jawaid and I'm a software developer.  I'm from Brampton, ON and
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=UzairJ99&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Uzair's GitHub Stats" />
 </a>
 
-<a href="https://github.com/UzairJ99/thought-bubbles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UzairJ99&repo=thought-bubbles&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/UzairJ99/CareerNicheMobileApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UzairJ99&repo=CareerNicheMobileApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
