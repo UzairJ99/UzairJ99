@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Uzair Jawaid and I'm a software developer.  I'm from Brampton, ON and previously interned at CIBC and TELUS.  You can check out my [website][1] and connect with me on [Twitter][2] or [LinkedIn][3]!
+My name is Uzair Jawaid and I'm a software developer. You can check out my [website][1] and connect with me on [Twitter][2] or [LinkedIn][3]!
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -32,6 +32,6 @@ My name is Uzair Jawaid and I'm a software developer.  I'm from Brampton, ON and
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UzairJ99&repo=pacemaker-project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
-[1]: http://www.uzairjawaid.com
+[1]: http://www.uzair-jawaid-portfolio.azurewebsites.net
 [2]: https://www.twitter.com/UzairJ99
 [3]: https://www.linkedin.com/in/jawaidu
