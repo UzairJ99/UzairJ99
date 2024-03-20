@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Uzair Jawaid and I'm a software developer. You can check out my [website][1] and connect with me on [Twitter][2] or [LinkedIn][3]!
+My name is Uzair and I'm a software developer.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
