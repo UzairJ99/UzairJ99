@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Uzair and I'm a software developer.
+My name is Uzair and I'm a passionate and results-driven Software Engineer with a focus on building high-performance, scalable applications with React, TypeScript, Node.js, and Java. With a proven track record of designing innovative solutions and improving system performance, I am skilled at leading full-stack development, mentoring junior engineers, and driving key product decisions. I'm dedicated to developing robust applications, delivering clean code, enhancing user experience, and contributing to the community. Beyond my core responsibilities, I am dedicated to sharing knowledge through technical presentations, authored blogs, and mentoring students.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
